@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harunomar54
-- 👀 I’m interested in Web Development and Data Analysis
-- 🌱 I’m currently learning Machine Learning and Automation 
+- 👀 Full Stack Software Development and Data Analysis
+- 🌱 Machine Learning and Automation 
 - 📫 Please feel Free to reach me via LinkedIN https://www.linkedin.com/in/harunog/
 
 <!---
